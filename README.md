@@ -1,4 +1,4 @@
-# irssi-nickserv_osx_kexchain
+# irssi-nickserv_osx_keychain
 
 Irssi script to identify yourself to NickServ using a password stored in the OS
 X keychain
