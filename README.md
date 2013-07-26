@@ -12,7 +12,7 @@ perform nickname registration/identification chances are you have added an
 connect. While this works great you have to put your plain text password into
 your irssi configuration. This might not be bothering you as your NickServ
 password might be exposed in other ways (see [below](#A-Note-on-Security)).
-However if you are using a (public) /dotfiles/ repository to sync your
+However if you are using a (public) *dotfiles* repository to sync your
 configuration between different machines your password would be visible to
 everyone.
 
